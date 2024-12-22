@@ -43,5 +43,6 @@ yarn add @reduxjs/toolkit react-redux
 
 - ### 编写代码，执行 yarn dev:weapp 编译生成微信小程序源码在 dist 目录，用\<微信开发者工具\>打开导入该 dist 目录运行调试即可
 
+- ### \<微信开发者工具\> 调试运行图
 
 ![](./images/pic1.png)
